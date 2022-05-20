@@ -31,3 +31,10 @@ body {
     color: hsl(220, 15%, 55%);
     font-size: 15px;
 }
+
+/* Mobile Responsive */
+@media only screen and (max-width: 600px) {
+    .qr-component {
+        width: 80%;
+    }
+}
